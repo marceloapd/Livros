@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30896b7d-94a3-4140-84fc-d8c113d04028</dc:identifier>
+        <dc:title>Introdução às Expressões Regulares</dc:title>
+        <dc:creator opf:file-as="Fitzgerald, Michael" opf:role="aut">Michael Fitzgerald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-17T03:00:00+00:00</dc:date>
+        <dc:description>Este livro ensina passo a passo os conceitos fundamentais das expressões regulares.</dc:description>
+        <dc:publisher>Novatec Editora</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07Y15BHYM</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>técnico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Fitzgerald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-01-14T01:03:29.399000+00:00"/>
+        <meta name="calibre:title_sort" content="Introdução às Expressões Regulares"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Introdução às Expressões Regulares - Michael Fitzgerald.jpg"/>
+    </guide>
+</package>
